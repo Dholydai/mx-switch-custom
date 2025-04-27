@@ -11,4 +11,4 @@ key columns within straight rows of keys.
 Subsitute common keycaps sizes as needed. Manufacturers will catch up.
 
 Maple Elite-Pi symbol and footprint. It was confusing to use the Elite-C.
-Perhaps I may add a courtyard.
+Perhaps I may add a courtyard in the future.
