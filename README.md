@@ -10,4 +10,4 @@ key columns within straight rows of keys.
 
 Subsitute common keycaps sizes as needed. Relabel with replacement keycap stickers. Manufacturers will eventually catch up.
 
-Maple Elite-Pi symbol and footprint. None provided by Keebio in early 2025. Using the Elite-C was unwieldy.
+Maple Elite-Pi symbol and footprint. None provided by Keebio in early 2025.
