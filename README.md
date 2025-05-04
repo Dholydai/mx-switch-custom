@@ -1,8 +1,8 @@
 # mx-switch-custom
 
-Files for KiCad PCB design software
+Files for KiCad PCB design software.
 
-Custom Cherry MX footprints compatable with the native KiCad library.
+Custom Cherry MX footprints compatible with the native KiCad library.
 
 These footprints allow keyboard designers to abandon the jagged 150-year old
 mechanical typewriter horizontal keystagger and create uniform angled
