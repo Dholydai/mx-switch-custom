@@ -10,7 +10,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 0 0 0)
+			(at 0 -3.048 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -18,7 +18,7 @@
 			)
 		)
 		(property "Value" "Elite-Pi"
-			(at -0.254 3.048 0)
+			(at -2.54 0 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -105,7 +105,7 @@
 			(pin input line
 				(at -17.78 8.89 0)
 				(length 5.08)
-				(name "GND"
+				(name "GND-D10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -123,7 +123,7 @@
 			(pin input line
 				(at -17.78 6.35 0)
 				(length 5.08)
-				(name "GND"
+				(name "GND-D11"
 					(effects
 						(font
 							(size 1.27 1.27)
