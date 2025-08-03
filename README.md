@@ -11,3 +11,7 @@ key columns within straight rows of keys.
 Subsitute common keycaps sizes as needed. Relabel with replacement keycap stickers. Manufacturers will eventually catch up.
 
 Maple Elite-Pi symbol and footprint. None provided by Keebio in early 2025.
+
+Link to my repo of modern writing instruments: [Writerz With an Attitude](https://github.com/Dholydai/writerz-with-an-attitude)
+
+Ronald Earl Walker
