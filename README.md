@@ -2,15 +2,15 @@
 
 Files for KiCad PCB design software.
 
-Custom Cherry MX footprints compatible with the native KiCad library.
+Custom Cherry MX footprints compatible with the native KiCad library and a Maple Elite-Pi symbol and footprint. 
 
-These footprints allow keyboard designers to abandon the jagged 150-year old
-mechanical typewriter horizontal keystagger and create uniform angled
-key columns within straight rows of keys.
+These footprints allow keyboard designers to abandon the jagged 150-year old mechanical typewriter horizontal keystagger and 
+create uniform linear angled key columns within straight rows of keys.
 
-Subsitute common keycaps sizes as needed. Relabel with replacement keycap stickers. Manufacturers will eventually catch up.
+I have been subsituting common keycaps sizes from large XDA keycapy sets, and relabeling them with keycap stickers as neeeded.
 
-Maple Elite-Pi symbol and footprint. None provided by Keebio in early 2025.
+YUZU custom keycaps makes any die-sub keycap set that your heart desires. I have designed and bought five sets in two months. Even
+with the new high tariffs, the price is a affordable. Good quality product.
 
 Link to my repo of modern writing instruments: [Writerz With an Attitude](https://github.com/Dholydai/writerz-with-an-attitude)
 
