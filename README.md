@@ -10,8 +10,6 @@ create uniform linear angled key columns within straight rows of keys.
 
 Availability of keycap sets:
 
-I have been subsituting common keycaps sizes from large XDA keycap sets, and relabeling them with keycap stickers as needed.
-
 YUZU custom keycaps will make any die-sub keycap set that your heart desires. Common sizes still have to be sustituted. Being able to choose 
 keycap sizes, colors, and legends is 'just what the doctor ordered'. I have designed and bought five sets in two months. Even with the new 
 high tariffs, the price is a affordable. Good quality product.
