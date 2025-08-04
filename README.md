@@ -16,4 +16,4 @@ high tariffs, the price is a affordable. Good quality product.
 
 Link to my repo of modern writing instruments: [Writerz With an Attitude](https://github.com/Dholydai/writerz-with-an-attitude)
 
-Ronald Earl Walker
+Ronald Earl Walker - Inventor of the Post-Mechanical keyboard
