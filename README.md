@@ -10,7 +10,7 @@ create uniform linear angled key columns within straight rows of keys.
 
 Availability of keycap sets:
 
-There is now a keycap manufacturer that makes one-off custom sets. The above keyboard is populated by the first set of five sets that I have bought.
+There is a keycap manufacturer that makes one-off custom sets. The Maxmus shown above is populated by the first set that I created.
 
 YUZU custom keycaps will make any die-sub keycap set that your heart desires. Common sizes have to be sustituted. Being able to choose keycap sizes, 
 colors, and legends is 'just what the doctor ordered'. I have designed and bought five sets in two months. Good quality product.
