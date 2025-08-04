@@ -12,8 +12,8 @@ Availability of keycap sets:
 
 There is a keycap manufacturer that makes one-off custom sets. The Maxmus shown above is populated by the first set that I created.
 
-YUZU custom keycaps will make any die-sub keycap set that your heart desires. Common sizes have to be sustituted. Being able to choose keycap sizes, 
-colors, and legends is 'just what the doctor ordered'. I have designed and bought five sets in two months. Good quality product.
+YUZU custom keycaps will make any die-sub keycap set that your heart desires. Common sizes have to be sustituted for the exotic sizes
+that I require. Being able to choose keycap sizes, colors, and legends is game changing. I have designed and bought five sets. Good quality product.
 
 Link to my repo of modern writing instruments: [Writerz With an Attitude](https://github.com/Dholydai/writerz-with-an-attitude)
 
