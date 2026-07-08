@@ -1,7 +1,7 @@
 # mx-switch-custom
 Library files for KiCad PCB design software.
 
-<img src="Images/MaximusGitHub.png" width="650" />
+<img src="Images/Maximus.jpg" width="650" />
 
 Custom Cherry MX footprints compatible with the native KiCad library. A Maple Elite-Pi symbol and footprint. 
 
