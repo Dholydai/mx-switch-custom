@@ -8,6 +8,8 @@ Custom Cherry MX footprints compatible with the native KiCad library. A Maple El
 These custom width footprints allow keyboard designers to create uniform linear angled key columns within straight rows of keys.
 The conventional 1/4-1/2-1/4 horizontal keystagger between the rows of character keys is replaced with a bilateral 1/3-1/3-1/3.
 
+Switch footprints incude: 1.1666U, 1.3333U, 1.6666U, 1.8333U, 2.3333U and 2.6666U
+
 Quality of key switches:
 
 Cherry MX switches have great quality. I build all of my keyboards with Cherry switches.
