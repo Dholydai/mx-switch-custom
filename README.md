@@ -6,7 +6,7 @@ Library files for KiCad PCB design software.
 Custom Cherry MX footprints compatible with the native KiCad library. A Maple Elite-Pi symbol and footprint. 
 
 These custom width footprints allow keyboard designers to create uniform linear angled key columns within straight rows of keys.
-The conventional 1/4-1/2-1/4 horizontal keystagger between the rows of character keys is replaced with a uniform 1/3-1/3-1/3.
+The conventional 1/4-1/2-1/4 horizontal keystagger between the rows of character keys is replaced with a bilateral 1/3-1/3-1/3.
 
 Quality of key switches:
 
