@@ -20,6 +20,6 @@ stickers as needed. Buying a 6U XDA spacebar is possible, the parts I bought com
 The custom keycap set shown above was produced by YUZU custom keycaps. Simon will make any die-sub keycap set that your heart desires. Common sizes still have to be sustituted. Being able to choose keycap 
 sizes, colors, and legends is game changing. I have designed and bought nine sets. Good quality product.
 
-Link to my repo of modern writing instruments: [Writerz With an Attitude](https://github.com/Dholydai/writerz-with-an-attitude)
+Link to my repo of keyboard PCBs, cases, firmware, and OS drivers to create modern writing instruments: [Writerz With an Attitude](https://github.com/Dholydai/writerz-with-an-attitude)
 
 Ronald Earl Walker - Inventor of the Post-Mechanical keyboard
